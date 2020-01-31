@@ -1,0 +1,63 @@
+<script>
+        var dijitalKarmaTagManagerParams={
+		
+		"ProductDataLayer":[{"id":"9278","name":"Kemerli Yelek","price":249.9,"brand":"xxx","category":"Deneme Kategori","sku":"17938051000Z34","quantity":1,"color":null,"size":null,"variant":"","specialPrice":0.0}],
+		    
+			"Environment":"release",
+			"PageUrl":"https://www.xxx.com.tr/p/kahverengi-kemerli-yelek-17938051000z34",
+			"PageType":"Product", // Sayfanın ismidir, product, cart, delivery vb. gibi.
+			"IsMobileDevice":"False",
+			"LanguageCulture":"tr-TR",
+			"CurrencyCode":"TRY",
+			"CountryCode":"TR",
+			"SearchQuery":"", // Kullanıcının site içerisinde arattığı kelimelerin basılması gerekmektedir. 'Kırmızı Takı' gibi.
+			"SearchResultCount":"0",
+			"CategoryId":"",
+			"CategoryName":"",
+			"CategoryPath":"",
+			"ProductIdList":"9278", // Bu variable sepet ve sonrasındaki adımlarda, buna ek olarak da kategori sayfalarında basılmalıdır.
+			"ProductNameList":"Kemerli Yelek",
+			"ProductSkuList":"17938051000Z34",
+			"ProductCartTotal":"249.9",
+			"ProductId":"9278",
+			"ProductSku":"17938051000Z34",
+			"ProductSkuList":"17938051000Z34", //Kategori ve sepet sayfalarından sonraki sayfalarda basılmalıdır. 
+			"ProductName":"Kemerli Yelek",
+			"ProductPrice":"249.9",
+			"ProductOldPrice":"349.9000",
+			"ProductCategoryId":"1035",
+			"ProductCategoryName":"Deneme Kategori",
+			"ProductBrandName":"Saysha",
+			"ProductModelNumber":"17938051000",
+			"VProductPrice":"249",
+			"VProductOldPrice":"349,90",
+			"ProductValue":"",
+			"VProductSpecialPrice":null,
+			"CustomerId":"8416358",
+			"CustomerFirstName":"",
+			"CustomerLastName":"",
+			"CustomerName":"",
+			"CustomerEmail":"",
+			"CustomerCreatedDate":"2020-01-30 09:36:47",
+			"CustomerLastLoginDate":"",
+			"CustomerIsLoggedIn":"false",
+			"CustomerGender":"",
+			"CustomerBirthDate":"",
+			"CustomerFirstOrderDate":"",
+			"CustomerLastOrderDate":"",
+			"NewRegistration":"false",
+			"IsCustomerHasMissingPermissions":"false",
+			"OrderId":"", // Sadece sipariş tamamlandı sayfasında basılması gerekmektedir.
+			"OrderNumber":"",
+			"OrderCreatedDate":"",
+			"OrderShippingAmount":"",
+			"OrderDiscountAmount":"",
+			"OrderTotalAmount":"",
+			"OrderTotalWithoutShippingAmount":"",
+			"OrderSubTotalWithoutTax":"",
+			"OrderSubTotalTax":"",
+			"OrderTax":"",
+			"OrderCoupon":""};
+
+
+    </script>
