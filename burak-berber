@@ -1,5 +1,5 @@
 <script>
-        var dijitalKarmaTagManagerParams={
+        var TagManagerParams={
 		
 		"ProductDataLayer":[{"id":"9278","name":"Kemerli Yelek","price":249.9,"brand":"xxx","category":"Deneme Kategori","sku":"17938051000Z34","quantity":1,"color":null,"size":null,"variant":"","specialPrice":0.0}],
 		    
